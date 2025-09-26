@@ -1,5 +1,5 @@
 # UI Automation using Selenium and Python Pytest
-- This is generic UI Automation framework using Selenium and Python Pytest.
+- This is a UI Automation framework using Selenium and Python Pytest.
 
 ## Setup:
 - [optional] Download and install Python3 from [here](https://www.python.org/downloads/) (Ignore the step if you already have python installed)
