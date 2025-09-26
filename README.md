@@ -1,4 +1,4 @@
-# UI Automation using Selenium and Python Pytest
+# A UI Automation using Selenium and Python Pytest
 - This is a UI Automation framework using Selenium and Python Pytest.
 
 ## Setup:
